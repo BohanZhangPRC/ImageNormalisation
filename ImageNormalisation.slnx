@@ -1,10 +1,5 @@
 <Solution>
-  <Folder Name="/解决方案项/">
-    <File Path="ImageNormalisation/ImageNormalisation.py" />
-    <File Path="main.py" />
-    <File Path="widgets.py" />
-    <File Path="windows.py" />
-  </Folder>
+  <Folder Name="/解决方案项/" />
   <Project Path="ImageNormalisation/ImageNormalisation.pyproj" Type="888888a0-9f3d-457c-b088-3a5042f75d52">
     <Build Project="false" />
   </Project>
